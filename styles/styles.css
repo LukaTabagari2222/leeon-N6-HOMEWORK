@@ -11,7 +11,14 @@
     margin-top: 53px;
 }
 
-
+.lk{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    gap: 195px;
+    margin-top: 53px;
+    z-index: 10;
+}
 .vecotre {
     width: 8px;
     height: 4px;
@@ -81,6 +88,7 @@
 
 /* aqedan  iwyeba main */
 .FirstSecTIon-DIV {
+    
     margin: 0 auto;
     width: 1220px;
     ;
@@ -303,7 +311,6 @@
 }
 
 .boGFOtoMain {
-
     width: 100%;
     height: 557px;
     top: 824px;
