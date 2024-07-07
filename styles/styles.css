@@ -316,7 +316,6 @@
     top: 824px;
     left: -2px;
     gap: 0px;
-    opacity: 0px;
 
 }
 
@@ -336,7 +335,6 @@
     height: 22px;
     left: 123.5px;
     gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 500;
@@ -350,7 +348,6 @@
     width: 349px;
     height: 48px;
     gap: 0px;
-    opacity: 0px;
     font-family: Poppins;
     font-size: 40px;
     font-weight: 700;
@@ -364,7 +361,6 @@
     width: 511px;
     height: 52px;
     gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -380,7 +376,7 @@
     top: 206px;
     left: 223.25px;
     gap: 0px;
-    opacity: 0px;
+
 
 }
 
@@ -391,8 +387,6 @@
     top: 1511px;
     left: 348px;
     gap: 41px;
-    opacity: 0px;
-    /* background-color: lightblue; */
     margin-left: auto;
     margin-right: auto;
     margin-top: 130px;
@@ -405,7 +399,6 @@
     height: 22px;
     left: 132px;
     gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 500;
@@ -419,7 +412,6 @@
     width: 348px;
     height: 48px;
     gap: 0px;
-    opacity: 0px;
     font-family: Poppins;
     font-size: 40px;
     font-weight: 700;
@@ -439,7 +431,6 @@
     width: 386px;
     height: 532px;
     gap: 0px;
-    opacity: 0px;
 
 }
 .gadajeQii{
@@ -456,7 +447,6 @@
     top: 396px;
     left: 22px;
     gap: 10px;
-    opacity: 0px;
     background-color:rgba(255, 255, 255, 1);
 
 }
@@ -466,7 +456,6 @@
     width: 203px;
     height: 38px;
     gap: 0px;
-    opacity: 0px;
     font-family: Poppins;
     font-size: 25px;
     font-weight: 600;
@@ -490,13 +479,11 @@ color: rgba(125, 125, 125, 1);
     width: 157px;
     height: 24px;
     gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
     line-height: 24.33px;
     text-align: center;
-
     color: rgba(125, 125, 125, 1);
 }
 .mpmawesrigebeli{
